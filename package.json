@@ -1,0 +1,34 @@
+{
+  "name": "next.js-jest-rtl-setup",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "jest --watchAll"
+  },
+  "dependencies": {
+    "next": "9.1.1",
+    "react": "16.10.2",
+    "react-dom": "16.10.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "babel-core": "^7.0.0-bridge",
+    "babel-jest": "^23.6.0",
+    "jest": "24.1.0",
+    "@testing-library/jest-dom": "^4.1.0",
+    "@testing-library/react": "^9.3.0"
+  },
+  "description": "Jest and React-testing-library setup boilerplate for Nextjs",
+  "main": "jest.config.js",
+  "keywords": [
+    "nextjs",
+    "react-testing-library",
+    "jest",
+    "TDD"
+  ],
+  "author": "Vishwasa Navada K",
+  "license": "MIT"
+}
