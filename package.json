@@ -15,7 +15,6 @@
   },
   "devDependencies": {
     "@babel/core": "^7.1.2",
-    "babel-core": "^7.0.0-bridge",
     "babel-jest": "^23.6.0",
     "jest": "24.1.0",
     "@testing-library/jest-dom": "^4.1.0",
