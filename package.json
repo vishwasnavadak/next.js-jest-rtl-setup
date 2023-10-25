@@ -9,7 +9,7 @@
     "test": "jest --watchAll"
   },
   "dependencies": {
-    "next": "9.3.3",
+    "next": "13.5.0",
     "react": "16.10.2",
     "react-dom": "16.10.2"
   },
